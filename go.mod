@@ -8,6 +8,8 @@ require (
 )
 
 require (
+	github.com/go-sql-driver/mysql v1.7.1 // direct
+	github.com/joho/godotenv v1.5.1 // direct
 	github.com/labstack/gommon v0.4.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.19 // indirect
